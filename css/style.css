@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    background-color: lightgrey;
+    border-bottom: 4px solid orange;
+}
+
+header img {
+    width: 10%;
+}
+
+#copyright {
+    font-size: 16px;
+}
+
+footer {
+    border-top: 4px solid orange;
+}
+
+.color-orange {
+    color: orange;
+}
+
+.corsivo {
+    font-style: italic;
+}
